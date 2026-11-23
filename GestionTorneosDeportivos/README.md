@@ -1,6 +1,6 @@
 # Sistema de Gestión de Torneos Deportivos
 
-Trabajo Integrador Final — **Programación II 2026** · Tecnicatura en Informática
+Trabajo Integrador Final — **Programación II 2026** ·
 **Alumno:** Falchetto Tomás · **Proyecto 3** · Aplicación de consola en **Java** (modalidad individual)
 
 Aplicación que permite administrar un torneo con deportistas individuales y equipos: registrar participantes y
